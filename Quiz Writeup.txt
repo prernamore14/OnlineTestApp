@@ -1,0 +1,19 @@
+Below were the phases involved in developing the project:
+
+Plan the Online Test Page:
+Before diving into the actual development, it is essential to plan the page's layout and features. This included deciding on the page's overall design, such as the color scheme, font styles, and layout of various components. Additionally, it was necessary to identify the required features, such as a adding questions to ensure that admin can add the questions easily.
+
+Setting up the Development Environment:
+Once the planning was complete, setting up the development environment by installing and configuring Visual Studio Code, Bootstrap, Angular, and Node.js was done. These tools are essential for building the quiz and ensuring that it is user-friendly. Additionally, setting up a GitHub repository to manage version control was needed.
+
+Develop the Quiz Page:
+After the development environment was set up, actual development phase started. HTML structure, including the header, navigation bar, main content area, layout, including fonts, colors, and images. Bootstrap was used to create responsive designs and make the page compatible with various devices.
+
+Implement Quiz Features:
+Once the basic structure and styling of the quiz page were complete, added questions and relevent answers to those questions.
+
+Test the Quiz Page:
+After completing the development, tested the page's functionality and appearance to ensure that it meets the requirements and user expectations. 
+
+Commit to Git:
+Maintained multiple Versions on GIT to ensure no loss of code and final functional version was committed to GIT.
